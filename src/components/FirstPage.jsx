@@ -5,7 +5,7 @@ const FirstPage = () => {
     return (
         <div className='bg-black text-white min-h-screen min-w-screen flex items-center justify-center'>
             <div className='mx-auto max-w-lg'>
-            <img src="" className='w-20 h-auto relative bottom-20 cursor-not-allowed'/>
+            <img src="../assets/avatar.jpg" className='w-10 h-auto relative bottom-20 cursor-not-allowed'/>
             <h1 className='text-4xl font-bold mb-6 py-6 text-center'>Hey, It's Pascal!</h1> 
             <p className='text-md font-medium text-gray-400 px-6'>I'm a Software Engineer and Technical Writer</p>
             <br />
@@ -23,19 +23,15 @@ const FirstPage = () => {
              <ul className='flex flex-col list-none m-4'>
                 <li className='border border-gray-600 rounded-xl p-8 m-4'><a href='#'>Check out my Projects</a></li>
                 <li className='border border-gray-600 rounded-xl p-8 m-4'>
-                    <img src="../assets/AI medium.png" alt="" className='w-4 h-4 mr-2 inline' />
                     <a href='https://medium.com/pascalokereke18@gmail.com'>Check out my Medium blog</a></li>
                 
                 <li className='border border-gray-600 rounded-xl p-8 m-4'>
-                    <img src="../assets/AI github.png" alt="" className='w-4 h-4 mr-2 inline' />
                     <a href='https://github.com/delavegar25'>Check out my Github</a></li>
                 
                 <li className='border border-gray-600 rounded-xl p-8 m-4'>
-                <img src="../assets/AI linkedin.png" alt="" className='w-4 h-4 mr-2 inline' />
                 <a href='https://linkedin.com/in/okereke-pascal-72900724a'>Let's connect on Linkedin</a></li>
 
                 <li className='border border-gray-600 rounded-xl p-8 m-4'>
-                    <img src="../assets/AI twitter.png" alt="" className='w-4 h-4 mr-2 bg-blue-600 inline'/>
                     <a href='https://twitter.com/delavegar_'>Let's connect on Twitter</a></li>
              </ul>
          </div>
