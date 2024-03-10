@@ -1,4 +1,7 @@
 import React from 'react';
+import aiTwitter from './ai_twitter.png'
+import aiLinkedin from './ai_linkedin.png'
+
 
 const FirstPage = () => {
     return (
@@ -24,11 +27,11 @@ const FirstPage = () => {
                 <li className='border border-gray-600 rounded-xl p-8 m-4'><a href='https://medium.com/pascalokereke18@gmail.com'>Check out my Medium blog</a></li>
                 <li className='border border-gray-600 rounded-xl p-8 m-4'><a href='https://github.com/delavegar25'>Check out my Github</a></li>
                 <li className='border border-gray-600 rounded-xl p-8 m-4'><a href='https://linkedin.com/in/okereke-pascal-72900724a'>Let's connect on Linkedin</a></li>
-                <li className='border border-gray-600 rounded-xl p-8 m-4'><a href='https://twitter.com/delavegar_'>Let's connect on Twitter</a></li>
+                <li className='border border-gray-600 rounded-xl p-8 m-4'>
+                    <img src={aiTwitter} alt="Twitter" className='w-8 h-8 mr-2 inline'/>
+                    <a href='https://twitter.com/delavegar_'>Let's connect on Twitter</a></li>
              </ul>
-
          </div>
-
         </div>
  </div>        
     );
