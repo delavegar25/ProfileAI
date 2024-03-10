@@ -20,7 +20,7 @@ const FirstPage = () => {
             
          <div className='flex justify-center items-center'>
              <ul className='flex flex-row list-none m-4'>
-                <li className='border border-gray-600 rounded-xl p-10'>Let's connect on Twitter</li>
+                <li className='border border-gray-600 rounded-xl p-10 w-14'>Let's connect on Twitter</li>
              </ul>
 
          </div>
