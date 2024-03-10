@@ -1,5 +1,5 @@
 import React from 'react';
-import aiTwitter from './ai_twitter.png'
+import aiTwitter from './aitwitter.png'
 import aiLinkedin from './ai_linkedin.png'
 
 
