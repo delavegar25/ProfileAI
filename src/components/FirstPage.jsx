@@ -1,6 +1,4 @@
 import React from 'react';
-import aiTwitter from './aitwitter.png'
-import aiLinkedin from './ai_linkedin.png'
 
 
 const FirstPage = () => {
@@ -24,11 +22,20 @@ const FirstPage = () => {
          <div className='flex justify-center items-center'>
              <ul className='flex flex-col list-none m-4'>
                 <li className='border border-gray-600 rounded-xl p-8 m-4'><a href='#'>Check out my Projects</a></li>
-                <li className='border border-gray-600 rounded-xl p-8 m-4'><a href='https://medium.com/pascalokereke18@gmail.com'>Check out my Medium blog</a></li>
-                <li className='border border-gray-600 rounded-xl p-8 m-4'><a href='https://github.com/delavegar25'>Check out my Github</a></li>
-                <li className='border border-gray-600 rounded-xl p-8 m-4'><a href='https://linkedin.com/in/okereke-pascal-72900724a'>Let's connect on Linkedin</a></li>
                 <li className='border border-gray-600 rounded-xl p-8 m-4'>
-                    <img src={aiTwitter} alt="Twitter" className='bg-white w-8 h-8 mr-2 inline'/>
+                    <img src="../assets/AI medium.png" alt="" className='w-4 h-4 mr-2 inline' />
+                    <a href='https://medium.com/pascalokereke18@gmail.com'>Check out my Medium blog</a></li>
+                
+                <li className='border border-gray-600 rounded-xl p-8 m-4'>
+                    <img src="../assets/AI github.png" alt="" className='w-4 h-4 mr-2 inline' />
+                    <a href='https://github.com/delavegar25'>Check out my Github</a></li>
+                
+                <li className='border border-gray-600 rounded-xl p-8 m-4'>
+                <img src="../assets/AI linkedin.png" alt="" className='w-4 h-4 mr-2 inline' />
+                <a href='https://linkedin.com/in/okereke-pascal-72900724a'>Let's connect on Linkedin</a></li>
+
+                <li className='border border-gray-600 rounded-xl p-8 m-4'>
+                    <img src="../assets/AI twitter.png" alt="" className='w-4 h-4 mr-2 inline'/>
                     <a href='https://twitter.com/delavegar_'>Let's connect on Twitter</a></li>
              </ul>
          </div>
