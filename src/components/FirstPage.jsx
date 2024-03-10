@@ -19,8 +19,8 @@ const FirstPage = () => {
             <p className='text-md font-medium text-gray-400 px-6'>Technologies: Python, Javascript(React & Vue), TailwindCSS.</p>                  
             
          <div className='flex justify-center items-center'>
-             <ul className='flex flex-row list-none'>
-                <li className='border border-gray-600 rounded-xl p-3'>Let's connect on Twitter</li>
+             <ul className='flex flex-row list-none m-4'>
+                <li className='border border-gray-600 rounded-xl p-10'>Let's connect on Twitter</li>
              </ul>
 
          </div>
