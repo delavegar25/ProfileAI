@@ -20,11 +20,11 @@ const FirstPage = () => {
             
          <div className='flex justify-center items-center'>
              <ul className='flex flex-col-reverse list-none m-4'>
-                <li className='border border-gray-600 rounded-xl p-8'>Check out my Projects</li>
-                <li className='border border-gray-600 rounded-xl p-8'>Check out my Medium blog</li>
-                <li className='border border-gray-600 rounded-xl p-8'>Check out my Github</li>
-                <li className='border border-gray-600 rounded-xl p-8'>Let's connect on Linkedin</li>
-                <li className='border border-gray-600 rounded-xl p-8'>Let's connect on Twitter</li>
+                <li className='border border-gray-600 rounded-xl p-8 m-4'>Check out my Projects</li>
+                <li className='border border-gray-600 rounded-xl p-8 m-4'>Check out my Medium blog</li>
+                <li className='border border-gray-600 rounded-xl p-8 m-4'>Check out my Github</li>
+                <li className='border border-gray-600 rounded-xl p-8 m-4'>Let's connect on Linkedin</li>
+                <li className='border border-gray-600 rounded-xl p-8 m-4'>Let's connect on Twitter</li>
              </ul>
 
          </div>
