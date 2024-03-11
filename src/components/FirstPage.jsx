@@ -24,7 +24,7 @@ const FirstPage = () => {
                 <li className='border border-gray-600 rounded-xl p-8 m-4'><a href='#'>Check out my Projects</a></li>
 
                 <li className='border border-gray-600 rounded-xl p-8 m-4'>
-                       <img src="../assets/medium.png" alt="" className='w-24 h-24'/>
+                       
                     <a href='https://medium.com/pascalokereke18@gmail.com'>Check out my Medium blog</a></li>
                 
                 <li className='border border-gray-600 rounded-xl p-8 m-4'>
