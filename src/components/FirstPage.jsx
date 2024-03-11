@@ -32,6 +32,7 @@ const FirstPage = () => {
                 <a href='https://linkedin.com/in/okereke-pascal-72900724a'>Let's connect on Linkedin</a></li>
 
                 <li className='border border-gray-600 rounded-xl p-8 m-4'>
+                    <img src="../assets/react.svg" alt="" className='w-6 h-6 inline' />
                     <a href='https://twitter.com/delavegar_'>Let's connect on Twitter</a></li>
              </ul>
          </div>
