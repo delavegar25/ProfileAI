@@ -24,8 +24,7 @@ const FirstPage = () => {
                 <li className='border border-gray-600 rounded-xl p-8 m-4'><a href='#'>Check out my Projects</a></li>
 
                 <li className='border border-gray-600 rounded-xl p-8 m-4'>
-               <svg data-name="Layer 1" id="Layer_1" viewBox="0 0 25 25" className="w-25 h-25" xmlns="http://www.w3.org/2000/svg"><title/><rect height="412.22" rx="55.43" width="412.22" x="49.89" y="49.89"/>
-               <circle cx="197.51" cy="256" fill="#fff" r="77.45"/><ellipse cx="318.97" cy="255.56" fill="#fff" rx="35.07" ry="72.01"/><ellipse cx="378.21" cy="255.56" fill="#fff" rx="13.73" ry="65.08"/></svg>
+               <svg height="25px" id="Layer_1" style="enable-background:new 0 0 64 63.979;" version="1.1" viewBox="0 0 25 25" width="25px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="Shape_49_"><g><ellipse cx="32" cy="31.989" rx="32" ry="31.989" style="fill:#666666;"/></g></g><g id="Medium_Logo"><g><path d="M46.798,23.884h1.267v-3.899h-11.97l-3.979,15.08h-0.108l-3.941-15.08H16.061v3.899h1.229    c0.506,0,0.772-0.346,0.772,0.1v18c0,0.446-0.267,0.249-0.772,0.249h-1.229v3.75h8.002v-3.999h-2l1.23-16.726h0.108l5.533,20.725    h4.339l5.605-20.725h0.108l1.075,16.726h-2v3.999h10.002v-3.75h-1.267c-0.47,0-0.735,0.197-0.735-0.249v-16    C46.063,25.538,46.328,23.884,46.798,23.884z" style="fill:#FFFFFF;"/></g></g><g/><g/><g/><g/><g/><g/><g/><g/><g/><g/><g/><g/><g/><g/><g/></svg>
                     <a href='https://medium.com/pascalokereke18@gmail.com' className='relative left-2'>Check out my Medium blog</a></li>
                 
                 <li className='border border-gray-600 rounded-xl p-8 m-4'>   
