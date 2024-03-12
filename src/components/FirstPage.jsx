@@ -5,7 +5,6 @@ const FirstPage = () => {
     return (
         <div className='bg-black text-white min-h-screen min-w-screen flex items-center justify-center'>
             <div className='mx-auto max-w-lg'>
-            <img src="" className='w-20 h-auto relative bottom-20 cursor-not-allowed'/>
             <h1 className='text-4xl font-bold mb-6 py-6 text-center'>Hey, It's Pascal!</h1> 
             <p className='text-md font-medium text-gray-400 px-6'>I'm a Software Engineer and Technical Writer</p>
             <br />
@@ -26,7 +25,7 @@ const FirstPage = () => {
                 <li className='border border-gray-600 rounded-xl p-8 m-4'>
                     <a href='https://medium.com/pascalokereke18@gmail.com'>Check out my Medium blog</a></li>
                 
-                <li className='border border-gray-600 rounded-xl p-8 m-4'>   
+                <li className='border border-gray-600 rounded-xl p-8 m-4'>                   
                     <a href='https://github.com/delavegar25'>Check out my Github</a></li>
                 
 
